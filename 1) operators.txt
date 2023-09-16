@@ -1,0 +1,10 @@
+what is operator in programming languages?
+1) operator is nothing but symbols, each sysmbol has specific functionality
+2) python provides below opertors
+
+ --> Arithmetic operators(+,-, /, // %)
+ --> Assignment operators
+ --> Comparison operators
+ --> Logical operators
+ --> Identity operators
+ --> Membership operators
