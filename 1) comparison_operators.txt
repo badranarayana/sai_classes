@@ -1,0 +1,8 @@
+comparison operators:
+--------------------
+--> comparison operators are used to compare two objects
+--> return bool value(True/False)
+
+
+
+==, !=, <, > <= ,>=
