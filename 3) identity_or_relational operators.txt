@@ -1,0 +1,11 @@
+Identity operators:
+* identity operators are used to verify the objects are same or not(memory reference)
+
+
+1) is --> retrun True or False
+2) is not --> retrun True or False
+
+
+ex:
+x is y
+x is not y
